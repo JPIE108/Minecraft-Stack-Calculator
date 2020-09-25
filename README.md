@@ -1,2 +1,2 @@
 # Minecraft-Stack-Calculator
-Calculate how many stacks in any given quantity of items.
+Calculates how many stacks in any given quantity of items.
